@@ -5,8 +5,20 @@
 
 ### Projects
 
-#### 갤럭시아머니트리(GMT, Galaxia Moneytree)
+#### 발행
+- [GMT (WebView)](https://github.com/bcg-dev-team/galaxia-moneytree-webview)
+- [APP (Back Office)](https://github.com/bcg-dev-team/sto_Mobile_App)
+- [GMT / BCG-dev 브랜치로 구분 - (Back Office)](https://github.com/bcg-dev-team/sto-issue-bo-front)
+- [BCG-dev 예전](https://github.com/bcg-dev-team/sto_demo_front)
 
-- [WebView](https://github.com/bcg-dev-team/galaxia-moneytree-webview)
-- [Reactive Native](https://github.com/bcg-dev-team/sto_Mobile_App)
-- [Back Office](https://github.com/bcg-dev-team/sto-issue-bo-front)
+#### 유통
+- [User](https://github.com/bcg-dev-team/sto_demo_front_distribution)
+- [Back Office](https://github.com/bcg-dev-team/sto-distribution-bo-front)
+
+#### Pulse
+- [User](https://github.com/bcg-dev-team/pulse-web-frontend)
+- [Back Office](https://github.com/bcg-dev-team/pulse-bo-frontend)
+
+
+#### 발행사
+- [Back Office / User 통합](https://github.com/bcg-dev-team/sto-issuer-frontend)
